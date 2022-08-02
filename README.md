@@ -7,6 +7,10 @@ I have used youtube_transcript_api library to extract Manual/Auto-generated tras
 Download pretrained punctuator2 model from GitHub repo.
 
 
+## Usage:
+
+<a href="https://colab.research.google.com/github/SynapticDreams/Restore-Punctuations-Youtube/blob/main/transcripts_punctuator2.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ****References**
 https://github.com/jdepoix/youtube-transcript-api
 https://github.com/ottokart/punctuator2
